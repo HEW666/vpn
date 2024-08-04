@@ -3,14 +3,17 @@
 ```
 https://hew666.github.io/vpn/node.txt
 ```
-> 永久白嫖高速订阅，收藏转发让更多人看到
+> 永久白嫖高速订阅，收藏转发让更多人看到 （2024/08/04）
 
 # VPN软件
 ## 手机软件
-
 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
+[v2rayNG](https://github.com/2dust/v2rayNG/releases)
+
 ## 电脑软件
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+
 [NekoBox](https://github.com/MatsuriDayo/nekoray/releases)
 
 # 遇到问题❓
