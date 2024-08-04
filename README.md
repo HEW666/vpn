@@ -3,7 +3,11 @@
 ```
 https://hew666.github.io/vpn/node.txt
 ```
-> 永久白嫖高速订阅，收藏转发让更多人看到 （2024/08/04）
+
+```
+https://hew666.github.io/vpn/base64.txt
+```
+- 不能导入请使用Base64订阅[自行转换](https://sub.v1.mk/)
 
 # VPN软件
 ## 手机软件
