@@ -12,6 +12,8 @@ https://hew666.github.io/vpn/node.txt
 
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
+[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+
 [Hiddify](https://github.com/hiddify/hiddify-next/releases)
 
 ### iOS
@@ -22,14 +24,20 @@ https://hew666.github.io/vpn/node.txt
 ### Windows
 [v2rayN](https://github.com/2dust/v2rayN/releases)
 
+[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+
 [Hiddify](https://github.com/hiddify/hiddify-next/releases)
 
 [NekoBox](https://github.com/MatsuriDayo/nekoray/releases)
 
 ### MacOS
+[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+
 [Hiddify](https://github.com/hiddify/hiddify-next/releases)
 
 ### liunx
+[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+
 [Hiddify](https://github.com/hiddify/hiddify-next/releases)
 
 
