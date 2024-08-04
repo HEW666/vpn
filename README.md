@@ -7,16 +7,31 @@ https://hew666.github.io/vpn/node.txt
 
 # VPN软件
 ## 手机软件
-### 安卓
+### Android
 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
+### iOS
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
 
 ## 电脑软件
 ### Windows
 [v2rayN](https://github.com/2dust/v2rayN/releases)
 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
 [NekoBox](https://github.com/MatsuriDayo/nekoray/releases)
+
+### MacOS
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
+### liunx
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
 
 # 遇到问题❓
  > 失效的订阅链接会被定期更换。
