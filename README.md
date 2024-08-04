@@ -7,11 +7,13 @@ https://hew666.github.io/vpn/node.txt
 
 # VPN软件
 ## 手机软件
+### 安卓
 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
 ## 电脑软件
+### Windows
 [v2rayN](https://github.com/2dust/v2rayN/releases)
 
 [NekoBox](https://github.com/MatsuriDayo/nekoray/releases)
